@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700384356682",
+    "firebase_url": "https://mlkittest-df078.firebaseio.com",
+    "project_id": "mlkittest-df078",
+    "storage_bucket": "mlkittest-df078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700384356682:android:6a1b74237ea75f77",
+        "android_client_info": {
+          "package_name": "com.kyoungae.cardioprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700384356682-c1pf12hjonm0sf1hbgo77jcrchqr8o04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-086QkX85nfIGm_biwbM5ZNKtx0bVmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700384356682-c1pf12hjonm0sf1hbgo77jcrchqr8o04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
